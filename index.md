@@ -1,6 +1,4 @@
-# yukiarrr
-
 - GitHub
-  - https://github.com/yukiarrr
+  - [https://github.com/yukiarrr](https://github.com/yukiarrr)
 - Twitter
-  - https://twitter.com/yukiarrr
+  - [https://twitter.com/yukiarrr](https://twitter.com/yukiarrr)
